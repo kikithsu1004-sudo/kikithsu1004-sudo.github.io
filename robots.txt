@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://kikithsu1004-sudo.github.io/sitemap.xml
 Sitemap: https://kikithsu1004-sudo.github.io/partyhoo-jangsuyeon/sitemap.xml
+Sitemap: https://kikithsu1004-sudo.github.io/partyhoo-doljanchi/sitemap.xml
